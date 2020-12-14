@@ -17,3 +17,10 @@
 <img src="https://raw.githubusercontent.com/r3wind29/dotfiles-ltint/main/screenshot/2020-12-15_00-00-19_1920x1080.png">
 
 <img src="https://raw.githubusercontent.com/r3wind29/dotfiles-ltint/main/screenshot/2020-12-15_00-32-00_1920x1080.png">
+
+
+<h1>:hugs: Credits and Thanks to</h1>
+- <a href="https://github.com/jbirnick/polybar-timer" target="_blank">Polybar timer</a>
+- <a href="https://github.com/ecceman/bt-stat" target="_blank">Polybar bluetooth</a>
+- <a href="https://github.com/PrayagS/polybar-spotify" target="_blank">Polybar player</a>
+- <a href="https://www.reddit.com/r/Moescape/" target="_blank">Wallpaper</a>
