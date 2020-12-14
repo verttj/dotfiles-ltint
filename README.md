@@ -25,3 +25,4 @@
 - <a href="https://github.com/PrayagS/polybar-spotify" target="_blank">Polybar player</a>
 - <a href="https://www.reddit.com/r/Moescape/" target="_blank">Wallpaper</a>
 - <a href="https://github.com/MiguelRAvila/SimplerentFox" target="_blank">Firefox</a>
+- <a href="https://marketplace.visualstudio.com/items?itemName=ftsamoyed.theme-pink-cat-boo target="_blank">VscodeTheme</a>
